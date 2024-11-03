@@ -7,7 +7,7 @@ console.log(getShippingMessage("Australia", 120, 50)); // "Shipping to Australia
 console.log(getShippingMessage("Germany", 80, 20)); // "Shipping to Germany will cost 100 credits"
 console.log(getShippingMessage("Sweden", 100, 20)); // "Shipping to Sweden will cost 120 credits"
 
-// Виклик на страницу
+// Виклик на стрінку
 document.addEventListener('DOMContentLoaded', () => {
     const result2 = document.getElementById('result2');
     result2.innerHTML = `
