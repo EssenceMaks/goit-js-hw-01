@@ -2,7 +2,7 @@
 
 **Variables and types. The basics of functions.**
 
-Виклик на сторінку 
+Виклик на сторінку https://essencemaks.github.io/goit-js-hw-01/
 
 # **Задача 1. Замовлення дроїдів**
 
